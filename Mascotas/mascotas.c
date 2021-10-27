@@ -123,7 +123,7 @@ int altaMascota(eMascota lista[], int tam, eColor colores[], int tamC, eTipo tip
 
             lista[indice] = auxMascota;
             todoOk=1;
-            //}
+
 
         }
 

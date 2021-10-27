@@ -153,7 +153,7 @@ int mostrarTrabajos(eTrabajo trabajos[] , int tamT, eServicio servicios[], int t
                     }
             }
 
-            if(flag){ //marca que nunca se entro al for, y no hay mascotas
+            if(flag){
                 mostrarTrabajos=1;
             }else{
                  printf("No hay trabajos realizados a mascotas que mostrar\n");

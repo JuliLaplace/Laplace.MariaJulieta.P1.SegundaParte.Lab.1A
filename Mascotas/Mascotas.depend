@@ -211,7 +211,7 @@
 
 1634731606 c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\fecha.h
 
-1635341070 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\mascotas.c
+1635343606 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\mascotas.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -258,7 +258,7 @@
 	"mascotas.h"
 	"tipos.h"
 
-1635306012 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\trabajo.c
+1635343963 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\trabajo.c
 	"trabajo.h"
 
 1634736517 c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\trabajo.h
@@ -274,7 +274,7 @@
 1635305527 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\validaciones.c
 	"validaciones.h"
 
-1635338838 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\main.c
+1635344042 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -287,6 +287,7 @@
 	"fecha.h"
 	"menu.h"
 	"informes.h"
+	"dataWarehouse.h"
 
 1635336393 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\menu.c
 	"menu.h"
@@ -302,4 +303,15 @@
 	"mascotas.h"
 	"trabajo.h"
 	"tipos.h"
+
+1635344076 source:c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"dataWarehouse.h"
+
+1635342654 c:\users\julieta\desktop\laplace.mariajulieta.p1.segundaparte.lab.1a\mascotas\datawarehouse.h
+	"mascotas.h"
 

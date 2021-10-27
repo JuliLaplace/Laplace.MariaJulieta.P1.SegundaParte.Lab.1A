@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="colores.h" />
+		<Unit filename="dataWarehouse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dataWarehouse.h" />
 		<Unit filename="fecha.c">
 			<Option compilerVar="CC" />
 		</Unit>

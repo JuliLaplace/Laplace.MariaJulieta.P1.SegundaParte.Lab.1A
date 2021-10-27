@@ -10,6 +10,7 @@
 #include"fecha.h"
 #include"menu.h"
 #include"informes.h"
+#include"dataWarehouse.h"
 
 #define TAM 100
 #define TAMC 5
@@ -55,7 +56,12 @@ int main()
 
     inicializarMascotas(lista,TAM);
     inicializarTrabajos(trabajos, TAMTR);
-
+     /* if(harcodearMascotas(lista, TAM, 5, &nextId)){
+        flagAlta=1;
+    }
+    if(harcodeartrabajos(trabajos, TAMTR, 3, &nextIdTrab)){
+        flagAlta=1;
+    }*/
      do{
 	        switch(menu()){
 
